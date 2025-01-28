@@ -9,9 +9,9 @@ html {
 
 body {
   background: radial-gradient(
-    #bfd3e8 5px,
-    white 10px 65px,
-    #bfd3e8 1px
+    #bfd8b8 10px,
+    white 19px 14px,
+    #bfd5a8 1px
   );
   background-size: 100px 100px 
 }
@@ -24,6 +24,7 @@ h2 {
   width: 600px;
   margin: auto;
   margin-bottom: 5px;
+  font-family: sans-serif;
 }
 #myCanvas {
   border: 5px solid #bfd3e8;
